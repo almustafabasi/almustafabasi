@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @almustafabasi.
+- 👋 Hi, I’m Almustafa Basi.
 - 👀 I’m interested in Data Analysis and web programing.
 - 🌱 I’m currently learning Python, SQL, and web programming.
 - 💞️ I’m looking to collaborate on Data Alanlysis and web programming traning and projects.
