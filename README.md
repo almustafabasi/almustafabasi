@@ -1,4 +1,5 @@
 Almustafa Basi
+
 Data Analyst | Business Analytics Enthusiast | Financial Analysis | MBA Candidate
 
 Hello! I'm Almustafa Basi, a data analyst with a strong focus on business analytics, financial modeling, and decision-making tools like Excel. I have a diverse background in engineering, business management, and financial analysis, and I'm passionate about leveraging data-driven insights to solve complex problems.
